@@ -5,7 +5,7 @@ numpy==1.11.1
 futures>=3.0.5
 
 # web app
-flask==0.11.1
+flask==1.0
 python-dotenv
 watson-developer-cloud
 cf-deployment-tracker
