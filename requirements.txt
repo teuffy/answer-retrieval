@@ -1,5 +1,5 @@
 # custom scorer dependencies
-requests==2.10.0
+requests==2.20.0
 spacy==0.101.0
 numpy==1.11.1
 futures>=3.0.5
